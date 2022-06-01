@@ -12,8 +12,11 @@
 
 
 •	📫 How to reach me:
+
 •	Email - stvndugz@gmail.com
+
 •	LinkedIn - https://linkedin.com/in/stephen-duggan
+
 •	Projects - https://irlgames.itch.io/
 
 
