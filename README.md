@@ -2,7 +2,7 @@
 
 
 
-•	🔭 I’m currently a Computing in Games Development Student
+•	🔭 I’m a Computing in Games Development Student
 
 •	🌱 I’m currently learning C#, C++, Java & JavaScript
 
