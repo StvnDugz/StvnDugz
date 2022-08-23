@@ -17,6 +17,6 @@
 
 •	LinkedIn - https://linkedin.com/in/stephen-duggan
 
-•	Projects - https://irlgames.itch.io/
+•	Projects - https://irlgames.itch.io/ & https://irlgames.newgrounds.com/
 
 
