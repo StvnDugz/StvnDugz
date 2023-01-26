@@ -6,7 +6,7 @@
 
 •	🌱 I’m currently learning C#, C++, Java & JavaScript
 
-•	👯 I’m looking for work placement as part of my academic programme
+•	👯 I’m always looking to improve my design and programming skills
 
 •	💬 Ask me about football, videogames and Unity
 
@@ -17,6 +17,6 @@
 
 •	LinkedIn - https://linkedin.com/in/stephen-duggan
 
-•	Projects - https://irlgames.itch.io/ & https://irlgames.newgrounds.com/
+•	Projects - https://irlgames.itch.io/
 
 
