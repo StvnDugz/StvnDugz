@@ -3,7 +3,7 @@
 
 •	⚡️ I’m a Game Designer
 
-•	🛠 I'm currently working on - [Neon Runner](https://www.github.com/octokatherine](https://store.steampowered.com/app/2471910/Neon_Runner/)
+•	🛠 I'm currently working on - [Neon Runner](https://store.steampowered.com/app/2471910/Neon_Runner/)
 
 •	👩‍💻 I’m always looking to improve my design and programming skills.
 
