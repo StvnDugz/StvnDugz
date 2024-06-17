@@ -1,22 +1,19 @@
 ### Hi there 👋
 
 
+•	⚡️ I’m a Game Designer
 
-•	🔭 I’m a Computing in Games Development Student
+•	🧠 I'm currently learning C#, C++, & Blueprints
 
-•	🌱 I’m currently learning C#, C++, Java & JavaScript
+•	👩‍💻 I’m always looking to improve my design and programming skills
 
-•	👯 I’m always looking to improve my design and programming skills
-
-•	💬 Ask me about football, videogames and Unity
-
+•	💬 Ask me about Unreal Engine 5, Unity & game design
 
 •	📫 How to reach me:
 
-•	Email - stvndugz@gmail.com
+• 🔗 Links
 
-•	LinkedIn - https://linkedin.com/in/stephen-duggan
-
-•	Projects - https://irlgames.itch.io/
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://irlgames.itch.io/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://linkedin.com/in/stephen-duggan))
 
 
